@@ -1,0 +1,24 @@
+C:/Users/user/Desktop/hw5/bram_sim.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/hw5/bram_sim.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bram_sim
+
+Top level modules:
+	bram_sim
+
+} {} {}} C:/Users/user/Desktop/hw5/conv.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/hw5/conv.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module conv
+
+Top level modules:
+	conv
+
+} {} {}} C:/Users/user/Desktop/hw5/conv_tb.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/hw5/conv_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module conv
+-- Compiling module bram_sim
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}}
